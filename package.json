@@ -1,0 +1,19 @@
+{
+	"name": "end-term",
+	"version": "1.0.0",
+	"description": "first-ever server with Node.js that serves static rеsources such as HTML documents, images, and videos",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"keywords": [
+		"node",
+		"static",
+		"server"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"http-server": "^0.12.3"
+	}
+}
